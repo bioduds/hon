@@ -1,0 +1,15 @@
+{
+  "name": "bitworkers",
+  "type": "Full",
+  "port": 8134,
+  "sources": [
+    "seed.hon.bitworkers.org",
+    "seed2.hon.bitworkers.org",
+    "seed3.hon.bitworkers.org"
+  ],
+  "tests": [
+    "seed.bitcoin.sipa.be",
+    "google.com",
+    "uol.com.br"
+  ]
+}
